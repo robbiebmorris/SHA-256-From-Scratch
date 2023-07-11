@@ -1,6 +1,6 @@
-# Custom SHA256 Algorithm
+# SHA256 From Scratch
 
-This is a custom implementation of the SHA256 (Secure Hash Algorithm 256-bit) algorithm. The algorithm takes an input text and produces a 64-character hexadecimal hash value.
+This is a from scratch implementation of the SHA256 (Secure Hash Algorithm 256-bit) algorithm. The algorithm takes an input text and produces a 64-character hexadecimal hash value.
 
 ## Features
 
